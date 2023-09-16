@@ -18,3 +18,4 @@ https://arxiv.org/abs/2208.15001
 https://mingyuan-zhang.github.io/projects/MotionDiffuse.html
 
 ## Output
+![image](https://github.com/camenduru/MotionDiffuse-colab/assets/54370274/ad353804-ec12-4968-8798-e9c2d60365d9)
